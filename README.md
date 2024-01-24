@@ -1,7 +1,7 @@
 
 # <p align="center">I'm Alireza</p>
 
-I'm a self-taught FrontEnd developer
+ ### I'm a self-taught passionate FrontEnd developer, about year ago start to learn React. 
 
 <p align="center">
 <img height="30" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
@@ -11,6 +11,8 @@ I'm a self-taught FrontEnd developer
 <img height="30" alt="mui" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
 <img height="30" alt="tailwind" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
 </p>
+
+### I've developed several windows and web application with C# and SQL Server since 2016.
 
 <p align="center">  
 <img height="30" alt="csharp" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg">
