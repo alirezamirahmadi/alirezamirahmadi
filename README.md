@@ -1,7 +1,7 @@
 
 # <p align="center">I'm Alireza</p>
 
- ### I'm a self-taught passionate FrontEnd developer, about year ago start to learn React. 
+ ### I'm a self-taught passionate FrontEnd developer. About a year ago I started to learn React. 
 
 <p align="center">
 <img height="30" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
