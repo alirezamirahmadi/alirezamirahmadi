@@ -1,7 +1,7 @@
 
 # <p align="center">I'm Alireza</p>
 
- ### I'm a self-taught passionate FrontEnd developer. About a year ago I started to learn React. 
+ ### I'm a self-taught passionate front-end developer.
 
 <p align="center">
 <img height="30" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
@@ -11,6 +11,13 @@
 <img height="30" alt="jest" src="https://jestjs.io/img/jest.png">
 <img height="30" alt="mui" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
 <img height="30" alt="tailwind" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
+</p>
+
+### I'm learning Next.js and MongoDB
+
+<p align="center">
+<img height="30" alt="next.js" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png">
+<img height="30" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg">
 </p>
 
 ### I've developed several windows and web application with C# and SQL Server since 2016.
