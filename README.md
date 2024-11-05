@@ -11,13 +11,16 @@
 <img height="30" alt="jest" src="https://jestjs.io/img/jest.png">
 <img height="30" alt="mui" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
 <img height="30" alt="tailwind" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
-</p>
-
-### I'm learning Next.js and MongoDB
-
-<p align="center">
+ <br/>
 <img height="30" alt="next.js" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png">
 <img height="30" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg">
+</p>
+
+### I'm learning Oracle APEX
+
+<p align="center">
+<img height="40" alt="APEX" src="https://avatars.githubusercontent.com/u/4430336?s=48&v=4">
+<img height="50" alt="pl-sql" src="https://www.oracle.com/a/ocom/img/pl-sql.svg">
 </p>
 
 ### I've developed several windows and web application with C# and SQL Server since 2016.
